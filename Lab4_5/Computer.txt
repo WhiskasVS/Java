@@ -1,0 +1,7 @@
+IMac
+Apple M1
+DDR4
+16
+SSD
+256
+-Absent-
